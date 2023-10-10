@@ -1,0 +1,601 @@
+[
+  {
+    "name": "buildhelper",
+    "folder": "rel4/external_repos",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:tools/buildhelper",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "develop"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\buildhelper",
+    "matchingVersion": "develop",
+    "resolvedCommit": "a62c79d1bda3c815df3cf9468da8b8b054630547",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  },
+  {
+    "name": "curl",
+    "folder": "rel4/external_repos/curl-make",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/curl",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "aland"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\curl-make\\curl",
+    "matchingVersion": "aland",
+    "resolvedCommit": "485832445c30e51fcec72a15eac3c9b917759b0f",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  },
+  {
+    "name": "libssh2",
+    "folder": "rel4/external_repos/curl-make",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/libssh2",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "master"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\curl-make\\libssh2",
+    "matchingVersion": "master",
+    "resolvedCommit": "86e52ba63c1d14f850bbfa4afcaf7bdeab86e971",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  },
+  {
+    "name": "libftdi",
+    "folder": "rel4/external_repos",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/libftdi",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "aland"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\libftdi",
+    "matchingVersion": "aland",
+    "resolvedCommit": "b8c3aa7e1200dd7a0ccd24259b7534c35b023cf1",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  },
+  {
+    "name": "NAudio",
+    "folder": "rel4/external_repos",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/naudio",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "aland"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\NAudio",
+    "matchingVersion": "aland",
+    "resolvedCommit": "f4f4378082ff6726fdae95d0d2485a0fbb1b9088",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  },
+  {
+    "name": "liblicense",
+    "folder": "rel4/external_repos",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:Firmware/liblicense.git",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "develop"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\liblicense",
+    "matchingVersion": "develop",
+    "resolvedCommit": "f7a733083eb5757fdd52fce069d1b6d4ec74aec5",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  },
+  {
+    "name": "libusb",
+    "folder": "rel4/external_repos",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/libusb",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "aland"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\libusb",
+    "matchingVersion": "aland",
+    "resolvedCommit": "5db6a158ae328e969a41add923b75b418527ff29",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  },
+  {
+    "name": "c-ares",
+    "folder": "rel4/external_repos/c-ares-make",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/c-ares",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "aland"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\c-ares-make\\c-ares",
+    "matchingVersion": "aland",
+    "resolvedCommit": "75e9cdee6c0043eb6c2808ec592fa0fd12a003a2",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  },
+  {
+    "name": "shine",
+    "folder": "rel4/external_repos/shine-make",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/shine",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "master"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\shine-make\\shine",
+    "matchingVersion": "master",
+    "resolvedCommit": "f89c7b57013bef9fc3ad47e96f9e5d054733da52",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  },
+  {
+    "name": "websocket-sharp",
+    "folder": "rel4/external_repos",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/websocket-sharp",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "aland"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\websocket-sharp",
+    "matchingVersion": "aland",
+    "resolvedCommit": "272776f5dae81393e097a210564ea3d0c7920d00",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  },
+  {
+    "name": "Json.NET",
+    "folder": "rel4/external_repos",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/Json.NET",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "aland"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\Json.NET",
+    "matchingVersion": "aland",
+    "resolvedCommit": "5fd0f3b693b097fe5ef0de7700461e8ced8c3cba",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  },
+  {
+    "name": "fipMedia",
+    "folder": "rel4/external_repos",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "hotfix/5.0.1-1": "hotfix/eyesdn_5.0.1-0",
+        "*": "develop"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\fipMedia",
+    "matchingVersion": "hotfix/eyesdn_5.0.1-0",
+    "resolvedCommit": "38fdd131b1c62cdc7b99803d1e7c0cba6778a975",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [
+      {
+        "name": "buildhelper",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:tools/buildhelper.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "develop"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\buildhelper",
+        "matchingVersion": "develop",
+        "resolvedCommit": "a62c79d1bda3c815df3cf9468da8b8b054630547",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "cJSON",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/cJSON.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "develop"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\cJSON",
+        "matchingVersion": "develop",
+        "resolvedCommit": "9727bad635ff9e3cba00a9e6f77e13fa50adf2b7",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "libcompat",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:aland/libcompat.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "="
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\libcompat",
+        "matchingVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "resolvedCommit": "1233a5f39bf752971a221e783081a4d70a42230f",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "libcodecs",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:aland/libcodecs.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "develop"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\libcodecs",
+        "matchingVersion": "develop",
+        "resolvedCommit": "d38005f4b163be772da0a884a5b7b6129ae33990",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [
+          {
+            "name": "buildhelper",
+            "folder": "",
+            "repository": "git@gitmaster.hq.aland-mariwan.de:tools/buildhelper",
+            "ignorePrefix": "",
+            "versions": [
+              {
+                "*": "develop"
+              }
+            ],
+            "finalPath": "rel4\\external_repos\\fipMedia\\libcodecs\\buildhelper",
+            "matchingVersion": "develop",
+            "resolvedCommit": "a62c79d1bda3c815df3cf9468da8b8b054630547",
+            "parentVersion": "branch:develop",
+            "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/libcodecs.git",
+            "dependencies": [ ]
+          },
+          {
+            "name": "libopus",
+            "folder": "",
+            "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/libopus",
+            "ignorePrefix": "",
+            "versions": [
+              {
+                "*": "feature/aland"
+              }
+            ],
+            "finalPath": "rel4\\external_repos\\fipMedia\\libcodecs\\libopus",
+            "matchingVersion": "feature/aland",
+            "resolvedCommit": "6e0c4e205abe8c19f5f7c8d66d62548735b25a35",
+            "parentVersion": "branch:develop",
+            "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/libcodecs.git",
+            "dependencies": [ ]
+          },
+          {
+            "name": "libsamplerate",
+            "folder": "",
+            "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/libsamplerate",
+            "ignorePrefix": "",
+            "versions": [
+              {
+                "*": "feature/aland"
+              }
+            ],
+            "finalPath": "rel4\\external_repos\\fipMedia\\libcodecs\\libsamplerate",
+            "matchingVersion": "feature/aland",
+            "resolvedCommit": "43066de197a6b9794e253955a785eb635fc8048f",
+            "parentVersion": "branch:develop",
+            "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/libcodecs.git",
+            "dependencies": [ ]
+          },
+          {
+            "name": "libsilk",
+            "folder": "",
+            "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/libsilk",
+            "ignorePrefix": "",
+            "versions": [
+              {
+                "*": "FIX_v1.0.9"
+              }
+            ],
+            "finalPath": "rel4\\external_repos\\fipMedia\\libcodecs\\libsilk",
+            "matchingVersion": "FIX_v1.0.9",
+            "resolvedCommit": "4637ee8080a5fc2654ecba9a2f89609c800143c6",
+            "parentVersion": "branch:develop",
+            "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/libcodecs.git",
+            "dependencies": [ ]
+          }
+        ]
+      },
+      {
+        "name": "libre",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/libre.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "develop"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\libre",
+        "matchingVersion": "develop",
+        "resolvedCommit": "5ef2acf00a6fcb1bf82254edcbdc3aff46e01758",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "libt4t6",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:aland/libt4t6.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "develop"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\libt4t6",
+        "matchingVersion": "develop",
+        "resolvedCommit": "4d70f89cd84575bdb30d4175e8ea423c3912cf2a",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "pdf-parser",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:aland/pdf-parser.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "develop"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\pdf-parser",
+        "matchingVersion": "develop",
+        "resolvedCommit": "30fba9cd515078b6ab90b2565ca9589fa362332d",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "podofo",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/podofo.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "aland"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\podofo",
+        "matchingVersion": "aland",
+        "resolvedCommit": "e105b284e322d866881ce78dc12c74f4216eee3b",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "zlib",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/zlib.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "aland"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\zlib",
+        "matchingVersion": "aland",
+        "resolvedCommit": "926da06f3fce51e76fee42f1c00a57f8664879cb",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "libjpeg",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/libjpeg-turbo.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "aland"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\libjpeg",
+        "matchingVersion": "aland",
+        "resolvedCommit": "c4291dbf398fcad4df8ec88ac36637f55a077ca4",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "freetype2",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/freetype2.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "aland"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\freetype2",
+        "matchingVersion": "aland",
+        "resolvedCommit": "c14e915e4ecd2dea546589cbc6d0b2deaba43d80",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "libuv",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/libuv.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "aland"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\libuv",
+        "matchingVersion": "aland",
+        "resolvedCommit": "d3e5239698763dd1651c598a8a3ce27434886ab6",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "luajit",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/luajit.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "aland"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\luajit",
+        "matchingVersion": "aland",
+        "resolvedCommit": "208f3dbb4c7e34eb0db8050aa1134fce35954aa6",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "openssl-win-libs",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/openssl-win-libs.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "develop"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\openssl-win-libs",
+        "matchingVersion": "develop",
+        "resolvedCommit": "329e4a4770155c266d2a541d550168d6ec4e2a33",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [
+          {
+            "name": "openssl",
+            "folder": "",
+            "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/openssl",
+            "ignorePrefix": "",
+            "versions": [
+              {
+                "*": "OpenSSL_1_0_2-stable"
+              }
+            ],
+            "finalPath": "rel4\\external_repos\\fipMedia\\openssl-win-libs\\openssl",
+            "matchingVersion": "OpenSSL_1_0_2-stable",
+            "resolvedCommit": "cff0de9efab2a51e7896147a9b9f96d9125e44b4",
+            "parentVersion": "branch:develop",
+            "parentRepository": "git@gitmaster.hq.aland-mariwan.de:open-source/openssl-win-libs.git",
+            "dependencies": [ ]
+          }
+        ]
+      },
+      {
+        "name": "t38asn1",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:3rdParty/t38asn1.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "develop"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\t38asn1",
+        "matchingVersion": "develop",
+        "resolvedCommit": "9b0a5d1ee3672ef03409eafda99ea17a58a2beec",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "portaudio",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/portaudio.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "aland"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\portaudio",
+        "matchingVersion": "aland",
+        "resolvedCommit": "49ee7d04e1d79879254d30981888a33f9d9216a1",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      },
+      {
+        "name": "verisign",
+        "folder": "",
+        "repository": "git@gitmaster.hq.aland-mariwan.de:aland/verisign.git",
+        "ignorePrefix": "",
+        "versions": [
+          {
+            "*": "develop"
+          }
+        ],
+        "finalPath": "rel4\\external_repos\\fipMedia\\verisign",
+        "matchingVersion": "develop",
+        "resolvedCommit": "c2f7bbeb6cd730ee1a0a6ed208c69bb0cfd4c93a",
+        "parentVersion": "branch:hotfix/eyesdn_5.0.1-0",
+        "parentRepository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia",
+        "dependencies": [ ]
+      }
+    ]
+  },
+  {
+    "name": "libsrtp",
+    "folder": "rel4/external_repos",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:open-source/libsrtp.git",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "aland"
+      }
+    ],
+    "finalPath": "rel4\\external_repos\\libsrtp",
+    "matchingVersion": "aland",
+    "resolvedCommit": "d36851d031c1eaef8639ed1dd9aea7802b92a035",
+    "parentVersion": "branch:hotfix/5.0.1-1",
+    "parentRepository": "git@gitmaster.hq.aland-mariwan.de:eyesdn/eyesdn-software.git",
+    "dependencies": [ ]
+  }
+]

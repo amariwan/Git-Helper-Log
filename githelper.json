@@ -1,0 +1,13 @@
+[
+  {
+    "name": "githelperlog-integrationtest1",
+    "folder": "Tests",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "master"
+      }
+    ],
+    "repository": "git@gitmaster.hq.aland-mariwan.de:tools/githelperlog-integrationtest1.git"
+  }
+]
